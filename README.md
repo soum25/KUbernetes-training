@@ -1,1 +1,1 @@
-# KUbernetes-training
+# kubernetes-training
